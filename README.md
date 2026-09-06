@@ -123,6 +123,39 @@ DevOps_Interview_Guides/
 
 ---
 
+## Clickable Guide Links
+
+### Core Guides
+
+- [01 — Linux Interview Guide](Core_Guides/01_Linux_Interview_Guide.md)
+- [02 — Git Interview Guide](Core_Guides/02_Git_Interview_Guide.md)
+- [03 — AWS Interview Guide](Core_Guides/03_AWS_Interview_Guide.md)
+- [04 — Terraform Interview Guide](Core_Guides/04_Terraform_Interview_Guide.md)
+- [05 — Ansible Interview Guide](Core_Guides/05_Ansible_Interview_Guide.md)
+- [06 — Docker Interview Guide](Core_Guides/06_Docker_Interview_Guide.md)
+- [07 — Kubernetes Interview Guide](Core_Guides/07_Kubernetes_Interview_Guide.md)
+- [08 — CI/CD Interview Guide](Core_Guides/08_CICD_Interview_Guide.md)
+- [09 — Monitoring Interview Guide](Core_Guides/09_Monitoring_Interview_Guide.md)
+- [10 — DevSecOps Interview Guide](Core_Guides/10_DevSecOps_Interview_Guide.md)
+- [11 — GCP Interview Guide](Core_Guides/11_GCP_Interview_Guide.md)
+- [12 — Azure Interview Guide](Core_Guides/12_Azure_Interview_Guide.md)
+
+### Extended Guides
+
+- [13 — Networking Interview Guide](Extended_Guides/13_Networking_Interview_Guide.md)
+- [14 — Container Ecosystem Interview Guide](Extended_Guides/14_Container_Ecosystem_Interview_Guide.md)
+- [15 — Kubernetes Ecosystem Interview Guide](Extended_Guides/15_Kubernetes_Ecosystem_Interview_Guide.md)
+- [16 — Testing & Quality Gates Interview Guide](Extended_Guides/16_Testing_Quality_Gates_Interview_Guide.md)
+- [17 — Artifact Management Interview Guide](Extended_Guides/17_Artifact_Management_Interview_Guide.md)
+- [18 — Scripting Languages Interview Guide](Extended_Guides/18_Scripting_Languages_Interview_Guide.md)
+- [19 — CI/CD Extended Interview Guide](Extended_Guides/19_CICD_Extended_Interview_Guide.md)
+- [20 — AI + DevOps Interview Guide](Extended_Guides/20_AI_DevOps_Interview_Guide.md)
+- [21 — Chef & Puppet Interview Guide](Extended_Guides/21_Chef_Puppet_Interview_Guide.md)
+- [22 — Career, Projects & Interview Strategy Guide](Extended_Guides/22_Career_Project_Interview_Strategy_Guide.md)
+- [23 — Recent DevOps Interview Question Bank](Extended_Guides/23_Recent_DevOps_Interview_Question_Bank.md)
+
+---
+
 # Core Guides
 
 ## 1. Linux Interview Guide
