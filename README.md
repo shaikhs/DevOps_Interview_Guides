@@ -116,7 +116,9 @@ DevOps_Interview_Guides/
     ├── 18_Scripting_Languages_Interview_Guide.md
     ├── 19_CICD_Extended_Interview_Guide.md
     ├── 20_AI_DevOps_Interview_Guide.md
-    └── 21_Chef_Puppet_Interview_Guide.md
+    ├── 21_Chef_Puppet_Interview_Guide.md
+    ├── 22_Career_Project_Interview_Strategy_Guide.md
+    └── 23_Recent_DevOps_Interview_Question_Bank.md
 ```
 
 ---
@@ -153,6 +155,8 @@ DevOps_Interview_Guides/
 | 19 | [CI/CD Extended Interview Guide](Extended_Guides/19_CICD_Extended_Interview_Guide.md) | `Extended_Guides/19_CICD_Extended_Interview_Guide.md` |
 | 20 | [AI + DevOps Interview Guide](Extended_Guides/20_AI_DevOps_Interview_Guide.md) | `Extended_Guides/20_AI_DevOps_Interview_Guide.md` |
 | 21 | [Chef & Puppet Interview Guide](Extended_Guides/21_Chef_Puppet_Interview_Guide.md) | `Extended_Guides/21_Chef_Puppet_Interview_Guide.md` |
+| 22 | [Career, Projects & Interview Strategy Guide](Extended_Guides/22_Career_Project_Interview_Strategy_Guide.md) | `Extended_Guides/22_Career_Project_Interview_Strategy_Guide.md` |
+| 23 | [Recent DevOps Interview Question Bank](Extended_Guides/23_Recent_DevOps_Interview_Question_Bank.md) | `Extended_Guides/23_Recent_DevOps_Interview_Question_Bank.md` |
 
 ---
 
@@ -452,24 +456,38 @@ Topics include GitHub Copilot, Backstage, PagerDuty, AI-assisted operations, inc
 
 Topics include configuration management, cookbooks, recipes, manifests, modules, resources, catalogs, agents, idempotence, roles, environments, data bags, Hiera, policy, drift, reporting, secrets, and safe fleet convergence.
 
+## 22. Career, Projects & Interview Strategy Guide
+
+**File:** `Extended_Guides/22_Career_Project_Interview_Strategy_Guide.md`
+
+Topics include fundamentals prioritization, core-stack learning strategy, end-to-end portfolio architecture, production troubleshooting practice, system design, resume tailoring, ATS evidence, LinkedIn and Naukri positioning, interview readiness, rejection tracking, STAR storytelling, deliberate practice, and ethical salary negotiation.
+
+## 23. Recent DevOps Interview Question Bank
+
+**File:** `Extended_Guides/23_Recent_DevOps_Interview_Question_Bank.md`
+
+A practical question bank based on a real DevOps interview structure covering introduction and experience, Terraform, AWS networking and Organizations, Ansible, AWS security and compliance, Jenkins/CI/CD, Docker, and Kubernetes. It emphasizes explaining what you did, how you did it, why you chose it, and what problem it solved.
+
 ---
 
 ## Current Content Status
 
 The repository currently contains:
 
-- **21 completed guides**
+- **23 completed guides**
 - **12 Core Guides**
-- **9 Extended Guides**
-- **20 questions per guide**
-- **420 structured interview questions total**
+- **11 Extended Guides**
+- **20 questions per standard guide**
+- **30 questions in the Career, Projects & Interview Strategy Guide**
+- **37 questions in the Recent DevOps Interview Question Bank**
+- **487 structured interview questions total**
 - **4 difficulty categories per guide**
 - **5 answer layers per question**
 - **Production scenario coverage in every guide**
 
 The current implementation prioritizes depth and practical interview quality. It is structured so each guide can be expanded independently with additional question sets without changing the folder organization or answer model.
 
-> Note: The original long-term target describes a 1,485-question, 793+ page library. The current repository baseline contains 420 deep questions across 21 guides and can be expanded toward that target in future content batches.
+> Note: The original long-term target describes a 1,485-question, 793+ page library. The current repository baseline contains 487 deep questions across 23 guides and can be expanded toward that target in future content batches.
 
 ---
 
@@ -558,7 +576,7 @@ This guide collection complements the senior DevOps/SRE preparation material in 
 
 ## Suggested Future Expansion
 
-To move from the current 420-question baseline toward the full 1,485-question target, expand each guide using the same format:
+To move from the current 487-question baseline toward the full 1,485-question target, expand each guide using the same format:
 
 - Add more Junior fundamentals where topic breadth is high.
 - Add deeper Mid-Level implementation questions.
