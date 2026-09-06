@@ -19,22 +19,24 @@ This resource is designed for engineers preparing for:
 
 ---
 
-# Two Learning Modes
+# Two Ways to Prepare for Your DevOps Career
 
-Choose the mode that matches your preparation style. The **Read Mode** provides structured interview reference material, while the **YouTube Mode** provides a sequenced free learning path.
+I have organized this resource into two complementary learning paths. The first is a structured **DevOps Interview Preparation Guide** for building interview depth. The second is a sequenced **Zero-to-Hero DevOps Video Roadmap** for learning the tools and fundamentals from the ground up.
 
-## Mode 1 — Read: Interview Guides
+Use them together: learn the concepts through the video roadmap, then strengthen your understanding with the interview guides, production scenarios, and follow-up questions.
 
-Use the guide collection for structured preparation, detailed explanations, production scenarios, commands, troubleshooting, architecture decisions, and interview follow-up practice.
+## 1. Read: DevOps Interview Preparation Guide
+
+Start here when you want structured interview preparation. The guide collection covers detailed explanations, production scenarios, commands, troubleshooting, architecture decisions, and senior-level follow-up practice.
 
 - [Browse all Core and Extended Guides](#clickable-guide-links)
 - [Review the 23-guide structure](#guide-structure)
 - [Use the senior interview answer framework](#how-to-answer-in-an-interview)
 - [Practice follow-up questions](#interviewer-follow-up-preparation)
 
-## Mode 2 — Watch: Free YouTube Roadmap
+## 2. Watch: Zero-to-Hero DevOps Video Tutorials
 
-Follow these tutorials in order. Do not only watch them—practice each concept, build a small lab, break it, troubleshoot it, and document what you learned.
+Follow these free YouTube tutorials in order to build your DevOps foundation progressively—from Linux and networking through cloud, containers, Kubernetes, Infrastructure as Code, CI/CD, monitoring, and Python automation. Do not only watch them—practice each concept, build a small lab, break it, troubleshoot it, and document what you learned.
 
 | Order | Topic | Duration | Tutorial |
 |---:|---|---:|---|
