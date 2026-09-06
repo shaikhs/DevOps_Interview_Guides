@@ -15,6 +15,57 @@ This resource is designed for engineers preparing for:
 - Cloud Architect and Infrastructure Architect interviews
 - Technical Lead and Engineering Manager discussions
 
+![DevOps Roadmap: From Zero to Job-Ready](readme.jpg)
+
+---
+
+# Two Learning Modes
+
+Choose the mode that matches your preparation style. The **Read Mode** provides structured interview reference material, while the **YouTube Mode** provides a sequenced free learning path.
+
+## Mode 1 — Read: Interview Guides
+
+Use the guide collection for structured preparation, detailed explanations, production scenarios, commands, troubleshooting, architecture decisions, and interview follow-up practice.
+
+- [Browse all Core and Extended Guides](#clickable-guide-links)
+- [Review the 23-guide structure](#guide-structure)
+- [Use the senior interview answer framework](#how-to-answer-in-an-interview)
+- [Practice follow-up questions](#interviewer-follow-up-preparation)
+
+## Mode 2 — Watch: Free YouTube Roadmap
+
+Follow these tutorials in order. Do not only watch them—practice each concept, build a small lab, break it, troubleshoot it, and document what you learned.
+
+| Order | Topic | Duration | Tutorial |
+|---:|---|---:|---|
+| 1 | Linux | 5h 46m | [Watch Linux](https://lnkd.in/dm5JnDgt) |
+| 2 | Networking | 3h 10m 49s | [Watch Networking](https://lnkd.in/dH9HrXc8) |
+| 3 | Git & GitHub | 2h 31m 32s | [Watch Git & GitHub](https://lnkd.in/dY-g9dvf) |
+| 4 | Docker | 5h 07m 06s | [Watch Docker](https://lnkd.in/daK5JUYd) |
+| 5 | AWS | 10h 16m 41s | [Watch AWS](https://lnkd.in/dcR4vFdA) |
+| 6 | Jenkins | 6h 23m 23s | [Watch Jenkins](https://lnkd.in/d2ZJQwQa) |
+| 7 | GitHub Actions | 1h 22m 44s | [Watch GitHub Actions](https://lnkd.in/dpBk2-3p) |
+| 8 | Kubernetes | 11h 42m 52s | [Watch Kubernetes](https://lnkd.in/dvftJvhk) |
+| 9 | Helm | 2h 08m 03s | [Watch Helm](https://lnkd.in/dQq422iR) |
+| 10 | Terraform | 7h 21m 36s | [Watch Terraform](https://lnkd.in/dBmjm976) |
+| 11 | Prometheus & Grafana | 40m 14s | [Watch Prometheus & Grafana](https://lnkd.in/dKDah7yH) |
+| 12 | Python for DevOps | 4h 16m 46s | [Watch Python for DevOps](https://lnkd.in/dKNTzZWC) |
+
+**Total learning time:** approximately **61 hours**.
+
+### Watch-to-Work Practice Loop
+
+For every tutorial:
+
+1. Watch a focused section.
+2. Reproduce the commands in a safe lab.
+3. Explain what the tool does internally.
+4. Introduce a controlled failure.
+5. Diagnose the failure using evidence.
+6. Fix it and document the recovery.
+7. Add the lesson to an end-to-end project.
+8. Explain what you did, how you did it, why you chose it, and what problem it solved.
+
 ---
 
 ## Guide Philosophy
