@@ -40,18 +40,18 @@ Follow these free YouTube tutorials in order to build your DevOps foundation pro
 
 | Order | Topic | Duration | Tutorial |
 |---:|---|---:|---|
-| 1 | Linux | 5h 46m | [Watch Linux](https://lnkd.in/dm5JnDgt) |
-| 2 | Networking | 3h 10m 49s | [Watch Networking](https://lnkd.in/dH9HrXc8) |
-| 3 | Git & GitHub | 2h 31m 32s | [Watch Git & GitHub](https://lnkd.in/dY-g9dvf) |
-| 4 | Docker | 5h 07m 06s | [Watch Docker](https://lnkd.in/daK5JUYd) |
-| 5 | AWS | 10h 16m 41s | [Watch AWS](https://lnkd.in/dcR4vFdA) |
-| 6 | Jenkins | 6h 23m 23s | [Watch Jenkins](https://lnkd.in/d2ZJQwQa) |
-| 7 | GitHub Actions | 1h 22m 44s | [Watch GitHub Actions](https://lnkd.in/dpBk2-3p) |
-| 8 | Kubernetes | 11h 42m 52s | [Watch Kubernetes](https://lnkd.in/dvftJvhk) |
-| 9 | Helm | 2h 08m 03s | [Watch Helm](https://lnkd.in/dQq422iR) |
-| 10 | Terraform | 7h 21m 36s | [Watch Terraform](https://lnkd.in/dBmjm976) |
-| 11 | Prometheus & Grafana | 40m 14s | [Watch Prometheus & Grafana](https://lnkd.in/dKDah7yH) |
-| 12 | Python for DevOps | 4h 16m 46s | [Watch Python for DevOps](https://lnkd.in/dKNTzZWC) |
+| 1 | Linux | 5h 46m | [Watch Linux](https://www.youtube.com/watch?v=e01GGTKmtpc) |
+| 2 | Networking | 3h 10m 49s | [Watch Networking](https://www.youtube.com/watch?v=iSOfkw_YyOU) |
+| 3 | Git & GitHub | 2h 31m 32s | [Watch Git & GitHub](https://www.youtube.com/watch?v=AB3J8ufDYHQ) |
+| 4 | Docker | 5h 07m 06s | [Watch Docker](https://www.youtube.com/watch?v=9bSbNNH4Nqw) |
+| 5 | AWS | 10h 16m 41s | [Watch AWS](https://www.youtube.com/watch?v=KmsfUenqK4w) |
+| 6 | Jenkins | 6h 23m 23s | [Watch Jenkins](https://www.youtube.com/watch?v=XaSdKR2fOU4) |
+| 7 | GitHub Actions | 1h 22m 44s | [Watch GitHub Actions](https://www.youtube.com/watch?v=NIAEruc-eP8) |
+| 8 | Kubernetes | 11h 42m 52s | [Watch Kubernetes](https://www.youtube.com/watch?v=W04brGNgxN4) |
+| 9 | Helm | 2h 08m 03s | [Watch Helm](https://www.youtube.com/watch?v=DQk8HOVlumI) |
+| 10 | Terraform | 7h 21m 36s | [Watch Terraform](https://www.youtube.com/watch?v=S9mohJI_R34) |
+| 11 | Prometheus & Grafana | 40m 14s | [Watch Prometheus & Grafana](https://www.youtube.com/watch?v=DXZUunEeHqM) |
+| 12 | Python for DevOps | 4h 16m 46s | [Watch Python for DevOps](https://www.youtube.com/watch?v=mM6X7wjEtag) |
 
 **Total learning time:** approximately **61 hours**.
 
